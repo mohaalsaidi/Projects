@@ -1,2 +1,2 @@
-mylist = [6, 3, 8, 1, 7]
-print(mylist[::-1])
+s = ["h","e","l","l","o"]
+print(s[::-1])
